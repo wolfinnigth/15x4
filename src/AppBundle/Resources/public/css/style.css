@@ -13,13 +13,13 @@ footer p {
 }
 
 header {
-    background-color: #A53000;
-    background-image: url('/bundles/app/images/bg.png');
+    background-image: url('/bundles/app/images/bg4.png');
     padding-top: 60px;
     padding-bottom: 60px;
     text-align: left;
     font-size: 24px;
-    color: white;
+    color: black;
+    text-decoration: underline orangered;
 }
 
 footer a {
